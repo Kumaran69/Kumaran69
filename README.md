@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kumaran69
+- 👋 Hi, I’m @Kumaran
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning CSE
 - 💞️ I’m looking to collaborate on Make a repository on GitHub 
